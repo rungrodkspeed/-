@@ -37,12 +37,14 @@
 ในส่วนของการเรียนรู้เพื่อเครื่องคอมเกิดการรู้จำได้นั้น เราจะใช้ Bidirectional LSTM Neural Network
 เพื่อหลีกเลี่ยงปัญหา vanishing gradient ของ Recurrent Neural Network
 โดยประกาศโครงสร้างดังนี้
+<br />
 ![](/blob/structure.png)
 
 <br />
 <br />
 
 และผลลัพธ์จากการเทรนด์
+<br />
 ![](/blob/accuray.png)
 
 ### Result
