@@ -40,7 +40,7 @@
 ![](/blob/structure.png)
 
 และผลลัพธ์จากการเทรนด์
-![](/blob/accuracy.png)
+![](/blob/accuray.png)
 
 ### Result
 ----
